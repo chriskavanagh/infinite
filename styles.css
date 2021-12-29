@@ -6,12 +6,13 @@
 }
 
 .card {
-  color: blueviolet;
-  border: solid black 2px;
+  color: rgb(226, 43, 144);
+  border: solid red 2px;
   padding: 3rem;
   transform: translateX(100px);
   opacity: 0;
-  transition: 150ms;
+  transition: 500ms;
+  font-size: 1.2rem;
 }
 
 .card.show {
