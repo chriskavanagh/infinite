@@ -19,3 +19,16 @@
   transform: translateX(0);
   opacity: 1;
 }
+
+.box {
+  width: 30%;
+  max-height: 8rem;
+  border: 2px black dotted;
+  margin: 5rem auto 5rem auto;
+  padding: 3rem 4rem;
+}
+
+.text {
+  color: saddlebrown;
+  font-size: 2rem;
+}
